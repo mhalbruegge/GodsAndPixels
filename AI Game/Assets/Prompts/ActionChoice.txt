@@ -13,4 +13,9 @@ Walk: Walk to a person, if you are near a person you have the option to Talk to 
 Sacrifice: This will maybe please the gods, no guarantees. You have to remove one of your items but maybe you won't loose more health.
 Skill: {agent_skill_description}
 
+If you have 5 or more items you have a lot. Maybe sacrifice them if you want. 
+If you are low on health maybe try to have a conversation.
+If you have low amount of items maybe try to use you skill to get more.
+Try to not repeat your actions too much.
+
 Answere with one of the avaliable options (single word without any punctuation!)

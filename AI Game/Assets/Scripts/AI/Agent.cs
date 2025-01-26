@@ -339,6 +339,7 @@ public class Agent : MonoBehaviour
         prompt = prompt.Replace("{agent_name}", other.aiCharacter.playerName);
 
         string answer = await aiCharacter.Chat(prompt);
+        ChangeHealth(1);
 
         Debug.Log(aiCharacter.playerName + " says: " + answer);
         OnAgentSaysSomething?.Invoke(answer);
@@ -357,6 +358,7 @@ public class Agent : MonoBehaviour
         prompt = prompt.Replace("{agent_message}", other.lastMessage);
 
         string reply = await aiCharacter.Chat(prompt);
+        ChangeHealth(1);
 
         ConversationAnswer answer = JsonUtility.FromJson<ConversationAnswer>(reply);
 
@@ -370,7 +372,6 @@ public class Agent : MonoBehaviour
         {
             inConversationWith = null;
             other.inConversationWith = null;
-            ChangeHealth(1);
         }
         else
         {
