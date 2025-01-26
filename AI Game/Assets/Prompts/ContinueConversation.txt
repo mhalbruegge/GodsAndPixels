@@ -1,0 +1,15 @@
+{agent_name} said to you: \"{agent_message}\"
+
+How does your character reply to this? Please keep it short with one or two sentences.
+
+Give me answer back a JSON in the following form
+
+{
+    "message": <your_message>,
+    "quitConversation": <quit_conversation>
+}
+
+where
+
+<message> is your reply in first person
+<quit_conversation> is a boolean if you want to quit the conversation after you said your reply. If true this must be a farewell message with an excuse to end the conversation.

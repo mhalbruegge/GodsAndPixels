@@ -1,0 +1,1885 @@
+fileFormatVersion: 2
+guid: d883063ad3c6fd74aa35d13697129936
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -500217226320177340
+    second: magic_snakebite_sheet_0
+  - first:
+      213: -1756603249158639742
+    second: magic_snakebite_sheet_1
+  - first:
+      213: -8623362313531012029
+    second: magic_snakebite_sheet_2
+  - first:
+      213: -3209564604773292072
+    second: magic_snakebite_sheet_3
+  - first:
+      213: 8613811919388350400
+    second: magic_snakebite_sheet_4
+  - first:
+      213: -3784841402247350502
+    second: magic_snakebite_sheet_5
+  - first:
+      213: -1364463036068092894
+    second: magic_snakebite_sheet_6
+  - first:
+      213: 8471706635383477353
+    second: magic_snakebite_sheet_7
+  - first:
+      213: 7516144297072617189
+    second: magic_snakebite_sheet_8
+  - first:
+      213: -567494899730241239
+    second: magic_snakebite_sheet_9
+  - first:
+      213: -5301888110202720097
+    second: magic_snakebite_sheet_10
+  - first:
+      213: 1331678884184263248
+    second: magic_snakebite_sheet_11
+  - first:
+      213: -4980377018122180378
+    second: magic_snakebite_sheet_12
+  - first:
+      213: -3667226192590361700
+    second: magic_snakebite_sheet_13
+  - first:
+      213: -452937264231808986
+    second: magic_snakebite_sheet_14
+  - first:
+      213: -6239618811382431192
+    second: magic_snakebite_sheet_15
+  - first:
+      213: -4220701658575930545
+    second: magic_snakebite_sheet_16
+  - first:
+      213: -7232453692534065124
+    second: magic_snakebite_sheet_17
+  - first:
+      213: 4604827486741841889
+    second: magic_snakebite_sheet_18
+  - first:
+      213: 9082039853021443833
+    second: magic_snakebite_sheet_19
+  - first:
+      213: -2344164277755275164
+    second: magic_snakebite_sheet_20
+  - first:
+      213: -8817942016157807763
+    second: magic_snakebite_sheet_21
+  - first:
+      213: 6993839426189564529
+    second: magic_snakebite_sheet_22
+  - first:
+      213: -5235495048955410101
+    second: magic_snakebite_sheet_23
+  - first:
+      213: 103362263095685594
+    second: magic_snakebite_sheet_24
+  - first:
+      213: 1564350461739581052
+    second: magic_snakebite_sheet_25
+  - first:
+      213: -7907538712691236764
+    second: magic_snakebite_sheet_26
+  - first:
+      213: 2725173209757842050
+    second: magic_snakebite_sheet_27
+  - first:
+      213: -7160645168370750644
+    second: magic_snakebite_sheet_28
+  - first:
+      213: -7367111597065570097
+    second: magic_snakebite_sheet_29
+  - first:
+      213: -7900713889151796569
+    second: magic_snakebite_sheet_30
+  - first:
+      213: -4834258801870536742
+    second: magic_snakebite_sheet_31
+  - first:
+      213: -7529025378919852077
+    second: magic_snakebite_sheet_32
+  - first:
+      213: 5638959621958879972
+    second: magic_snakebite_sheet_33
+  - first:
+      213: -6542705541584655039
+    second: magic_snakebite_sheet_34
+  - first:
+      213: -4455547920871094083
+    second: magic_snakebite_sheet_35
+  - first:
+      213: 5440758744632747337
+    second: magic_snakebite_sheet_36
+  - first:
+      213: -2035162088334170876
+    second: magic_snakebite_sheet_37
+  - first:
+      213: 996632447599353945
+    second: magic_snakebite_sheet_38
+  - first:
+      213: -4804600516794038863
+    second: magic_snakebite_sheet_39
+  - first:
+      213: -3079498734519964779
+    second: magic_snakebite_sheet_40
+  - first:
+      213: -8228669631053219900
+    second: magic_snakebite_sheet_41
+  - first:
+      213: 6251808275623898028
+    second: magic_snakebite_sheet_42
+  - first:
+      213: 3587216663554077020
+    second: magic_snakebite_sheet_43
+  - first:
+      213: 5760522670108236008
+    second: magic_snakebite_sheet_44
+  - first:
+      213: 8142313739058968749
+    second: magic_snakebite_sheet_45
+  - first:
+      213: -988788231349011480
+    second: magic_snakebite_sheet_46
+  - first:
+      213: -1853836083952853484
+    second: magic_snakebite_sheet_47
+  - first:
+      213: -7572580674237330824
+    second: magic_snakebite_sheet_48
+  - first:
+      213: 7622053486763955840
+    second: magic_snakebite_sheet_49
+  - first:
+      213: -8004605474159654722
+    second: magic_snakebite_sheet_50
+  - first:
+      213: -1610546179269729059
+    second: magic_snakebite_sheet_51
+  - first:
+      213: -3087534995222729497
+    second: magic_snakebite_sheet_52
+  - first:
+      213: -3602816672258329539
+    second: magic_snakebite_sheet_53
+  - first:
+      213: 5222580364538146319
+    second: magic_snakebite_sheet_54
+  - first:
+      213: 8135059081170791433
+    second: magic_snakebite_sheet_55
+  - first:
+      213: 3475727423113905432
+    second: magic_snakebite_sheet_56
+  - first:
+      213: -3332050318594624526
+    second: magic_snakebite_sheet_57
+  - first:
+      213: 3630975496254369169
+    second: magic_snakebite_sheet_58
+  - first:
+      213: -8384108926712623934
+    second: magic_snakebite_sheet_59
+  - first:
+      213: -4250334571764049968
+    second: magic_snakebite_sheet_60
+  - first:
+      213: 1163582021057973936
+    second: magic_snakebite_sheet_61
+  - first:
+      213: 2413594258782336613
+    second: magic_snakebite_sheet_62
+  - first:
+      213: 4631630006533094323
+    second: magic_snakebite_sheet_63
+  - first:
+      213: 1987674399124727929
+    second: magic_snakebite_sheet_64
+  - first:
+      213: -8742724160001089003
+    second: magic_snakebite_sheet_65
+  - first:
+      213: 7046612274996092260
+    second: magic_snakebite_sheet_66
+  - first:
+      213: -7581473790537001265
+    second: magic_snakebite_sheet_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 452
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44797aa351fde09f0800000000000000
+      internalID: -500217226320177340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 441
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f2a9ad6aa4f97e0800000000000000
+      internalID: -1756603249158639742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 469
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c4e741aa9a35880800000000000000
+      internalID: -8623362313531012029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 354
+        width: 24
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d722d83ff55573d0800000000000000
+      internalID: -3209564604773292072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 447
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c71b218d486a8770800000000000000
+      internalID: 8613811919388350400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 434
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17fadf2cca897bc0800000000000000
+      internalID: -3784841402247350502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 457
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224a2021914701de0800000000000000
+      internalID: -1364463036068092894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 443
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9641a53cc4c819570800000000000000
+      internalID: 8471706635383477353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 453
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6679b7a65be4860800000000000000
+      internalID: 7516144297072617189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 443
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929abb9356adf18f0800000000000000
+      internalID: -567494899730241239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 444
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90ff78bad8eb66b0800000000000000
+      internalID: -5301888110202720097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 439
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a01beb3e21b7210800000000000000
+      internalID: 1331678884184263248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 451
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8ee4b3d7522eab0800000000000000
+      internalID: -4980377018122180378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 440
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ba4a725356b1dc0800000000000000
+      internalID: -3667226192590361700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 436
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6200deb35f7d6b9f0800000000000000
+      internalID: -452937264231808986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 436
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82284bdffbb6869a0800000000000000
+      internalID: -6239618811382431192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 429
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bfda9243e0d65c0800000000000000
+      internalID: -4220701658575930545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 428
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c187b029fa921ab90800000000000000
+      internalID: -7232453692534065124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 353
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7c337a332a7ef30800000000000000
+      internalID: 4604827486741841889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 300
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6b84ba023e90e70800000000000000
+      internalID: 9082039853021443833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 291
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4689c31620bd77fd0800000000000000
+      internalID: -2344164277755275164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 361
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b0ceca47060a580800000000000000
+      internalID: -8817942016157807763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 288
+        width: 62
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a962637eb1f0160800000000000000
+      internalID: 6993839426189564529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 349
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4942b7edf8c757b0800000000000000
+      internalID: -5235495048955410101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 337
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1bffe3e673f6100800000000000000
+      internalID: 103362263095685594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 351
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7eb438e470b5b510800000000000000
+      internalID: 1564350461739581052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 293
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460a36ecf67c24290800000000000000
+      internalID: -7907538712691236764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 327
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28af60f7892c1d520800000000000000
+      internalID: 2725173209757842050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 326
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4be4a8782740ac90800000000000000
+      internalID: -7160645168370750644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 308
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8fe3cf803c2c990800000000000000
+      internalID: -7367111597065570097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 306
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aabc1dd3960b5290800000000000000
+      internalID: -7900713889151796569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 297
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf73329b3349ecb0800000000000000
+      internalID: -4834258801870536742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 297
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7d490fe47838790800000000000000
+      internalID: -7529025378919852077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 160
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea41a156eb914e40800000000000000
+      internalID: 5638959621958879972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 169
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dedd389f3a335a0800000000000000
+      internalID: -6542705541584655039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 160
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db88fb0c5c6ba22c0800000000000000
+      internalID: -4455547920871094083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 169
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9456f6a7045718b40800000000000000
+      internalID: 5440758744632747337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 160
+        width: 60
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405ef780dd6a1c3e0800000000000000
+      internalID: -2035162088334170876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 169
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950a9c24eefb4dd00800000000000000
+      internalID: 996632447599353945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 160
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b545dc2941a25db0800000000000000
+      internalID: -4804600516794038863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 34
+        width: 80
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b2ca2873c6345d0800000000000000
+      internalID: -3079498734519964779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 40
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c737036194edcd80800000000000000
+      internalID: -8228669631053219900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 49
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabe860d082e2c650800000000000000
+      internalID: 6251808275623898028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 74
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51b083bc8a58c130800000000000000
+      internalID: 3587216663554077020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 67
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8d26019dc71ff40800000000000000
+      internalID: 5760522670108236008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 66
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da87462b43f4ff070800000000000000
+      internalID: 8142313739058968749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 49
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebfa58a75e1742f0800000000000000
+      internalID: -988788231349011480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 64
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e503857e9d546e0800000000000000
+      internalID: -1853836083952853484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 60
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a881f7ff9c8e690800000000000000
+      internalID: -7572580674237330824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 66
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086d7994349f6c960800000000000000
+      internalID: 7622053486763955840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 55
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb801914bbde9e090800000000000000
+      internalID: -8004605474159654722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 51
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4e34278c036a9e0800000000000000
+      internalID: -1610546179269729059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 56
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec6922c74fd625d0800000000000000
+      internalID: -3087534995222729497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 49
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34ff2b3359300ec0800000000000000
+      internalID: -3602816672258329539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ee93fcb255a7840800000000000000
+      internalID: 5222580364538146319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 45
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c2008022985e070800000000000000
+      internalID: 8135059081170791433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 55
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815c9c61da34c3030800000000000000
+      internalID: 3475727423113905432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 55
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3b072a3ed22c1d0800000000000000
+      internalID: -3332050318594624526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 56
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19da362e9f0d36230800000000000000
+      internalID: 3630975496254369169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 45
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cccc112a59a5ab80800000000000000
+      internalID: -8384108926712623934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 41
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d71179e937c305c0800000000000000
+      internalID: -4250334571764049968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 33
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be0138eeafd52010800000000000000
+      internalID: 1163582021057973936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 46
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566b4aac03fce7120800000000000000
+      internalID: 2413594258782336613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 42
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbf17693fad64040800000000000000
+      internalID: 4631630006533094323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 37
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978a7f8b553a59b10800000000000000
+      internalID: 1987674399124727929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 33
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512e8e982ba9ba680800000000000000
+      internalID: -8742724160001089003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d9c0197889ac160800000000000000
+      internalID: 7046612274996092260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_snakebite_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 34
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc69b1181c139c690800000000000000
+      internalID: -7581473790537001265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      magic_snakebite_sheet_0: -500217226320177340
+      magic_snakebite_sheet_1: -1756603249158639742
+      magic_snakebite_sheet_10: -5301888110202720097
+      magic_snakebite_sheet_11: 1331678884184263248
+      magic_snakebite_sheet_12: -4980377018122180378
+      magic_snakebite_sheet_13: -3667226192590361700
+      magic_snakebite_sheet_14: -452937264231808986
+      magic_snakebite_sheet_15: -6239618811382431192
+      magic_snakebite_sheet_16: -4220701658575930545
+      magic_snakebite_sheet_17: -7232453692534065124
+      magic_snakebite_sheet_18: 4604827486741841889
+      magic_snakebite_sheet_19: 9082039853021443833
+      magic_snakebite_sheet_2: -8623362313531012029
+      magic_snakebite_sheet_20: -2344164277755275164
+      magic_snakebite_sheet_21: -8817942016157807763
+      magic_snakebite_sheet_22: 6993839426189564529
+      magic_snakebite_sheet_23: -5235495048955410101
+      magic_snakebite_sheet_24: 103362263095685594
+      magic_snakebite_sheet_25: 1564350461739581052
+      magic_snakebite_sheet_26: -7907538712691236764
+      magic_snakebite_sheet_27: 2725173209757842050
+      magic_snakebite_sheet_28: -7160645168370750644
+      magic_snakebite_sheet_29: -7367111597065570097
+      magic_snakebite_sheet_3: -3209564604773292072
+      magic_snakebite_sheet_30: -7900713889151796569
+      magic_snakebite_sheet_31: -4834258801870536742
+      magic_snakebite_sheet_32: -7529025378919852077
+      magic_snakebite_sheet_33: 5638959621958879972
+      magic_snakebite_sheet_34: -6542705541584655039
+      magic_snakebite_sheet_35: -4455547920871094083
+      magic_snakebite_sheet_36: 5440758744632747337
+      magic_snakebite_sheet_37: -2035162088334170876
+      magic_snakebite_sheet_38: 996632447599353945
+      magic_snakebite_sheet_39: -4804600516794038863
+      magic_snakebite_sheet_4: 8613811919388350400
+      magic_snakebite_sheet_40: -3079498734519964779
+      magic_snakebite_sheet_41: -8228669631053219900
+      magic_snakebite_sheet_42: 6251808275623898028
+      magic_snakebite_sheet_43: 3587216663554077020
+      magic_snakebite_sheet_44: 5760522670108236008
+      magic_snakebite_sheet_45: 8142313739058968749
+      magic_snakebite_sheet_46: -988788231349011480
+      magic_snakebite_sheet_47: -1853836083952853484
+      magic_snakebite_sheet_48: -7572580674237330824
+      magic_snakebite_sheet_49: 7622053486763955840
+      magic_snakebite_sheet_5: -3784841402247350502
+      magic_snakebite_sheet_50: -8004605474159654722
+      magic_snakebite_sheet_51: -1610546179269729059
+      magic_snakebite_sheet_52: -3087534995222729497
+      magic_snakebite_sheet_53: -3602816672258329539
+      magic_snakebite_sheet_54: 5222580364538146319
+      magic_snakebite_sheet_55: 8135059081170791433
+      magic_snakebite_sheet_56: 3475727423113905432
+      magic_snakebite_sheet_57: -3332050318594624526
+      magic_snakebite_sheet_58: 3630975496254369169
+      magic_snakebite_sheet_59: -8384108926712623934
+      magic_snakebite_sheet_6: -1364463036068092894
+      magic_snakebite_sheet_60: -4250334571764049968
+      magic_snakebite_sheet_61: 1163582021057973936
+      magic_snakebite_sheet_62: 2413594258782336613
+      magic_snakebite_sheet_63: 4631630006533094323
+      magic_snakebite_sheet_64: 1987674399124727929
+      magic_snakebite_sheet_65: -8742724160001089003
+      magic_snakebite_sheet_66: 7046612274996092260
+      magic_snakebite_sheet_67: -7581473790537001265
+      magic_snakebite_sheet_7: 8471706635383477353
+      magic_snakebite_sheet_8: 7516144297072617189
+      magic_snakebite_sheet_9: -567494899730241239
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

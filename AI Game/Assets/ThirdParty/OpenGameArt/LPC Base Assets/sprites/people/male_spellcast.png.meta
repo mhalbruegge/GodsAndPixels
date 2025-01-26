@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 294c1fca9244fa147a72588a64286b77
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6092958594108893964
+    second: male_spellcast_0
+  - first:
+      213: -6301511356126728911
+    second: male_spellcast_1
+  - first:
+      213: -254942336874808031
+    second: male_spellcast_2
+  - first:
+      213: -1216981128056988783
+    second: male_spellcast_3
+  - first:
+      213: -3361933137006387924
+    second: male_spellcast_4
+  - first:
+      213: -2253023669972757174
+    second: male_spellcast_5
+  - first:
+      213: -3461561797273229978
+    second: male_spellcast_6
+  - first:
+      213: -4858507272837726035
+    second: male_spellcast_7
+  - first:
+      213: 3428239808725870626
+    second: male_spellcast_8
+  - first:
+      213: -589027863426040830
+    second: male_spellcast_9
+  - first:
+      213: 5377278377446684388
+    second: male_spellcast_10
+  - first:
+      213: 3552026767520830324
+    second: male_spellcast_11
+  - first:
+      213: -2792945764117578849
+    second: male_spellcast_12
+  - first:
+      213: -7898679025249481260
+    second: male_spellcast_13
+  - first:
+      213: 3013742680531851899
+    second: male_spellcast_14
+  - first:
+      213: -1129021895555139170
+    second: male_spellcast_15
+  - first:
+      213: 2359695192701722624
+    second: male_spellcast_16
+  - first:
+      213: 4799673515574289589
+    second: male_spellcast_17
+  - first:
+      213: -2800341338278139142
+    second: male_spellcast_18
+  - first:
+      213: 8172989811061284368
+    second: male_spellcast_19
+  - first:
+      213: 788203513346177332
+    second: male_spellcast_20
+  - first:
+      213: -189238321519000104
+    second: male_spellcast_21
+  - first:
+      213: 4225689225032729040
+    second: male_spellcast_22
+  - first:
+      213: -778573218258355308
+    second: male_spellcast_23
+  - first:
+      213: -9157576577380003772
+    second: male_spellcast_24
+  - first:
+      213: 4716904298811783353
+    second: male_spellcast_25
+  - first:
+      213: 2849963301967496510
+    second: male_spellcast_26
+  - first:
+      213: -5301990794609957177
+    second: male_spellcast_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: male_spellcast_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 193
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4d9f6c076717ba0800000000000000
+      internalID: -6092958594108893964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 193
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13de9f5fec88c88a0800000000000000
+      internalID: -6301511356126728911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 193
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d7e5c9b43467cf0800000000000000
+      internalID: -254942336874808031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 193
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b1fc3ac1a6c1fe0800000000000000
+      internalID: -1216981128056988783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 193
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d9e1acf930851d0800000000000000
+      internalID: -3361933137006387924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 193
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a451ab0c8e6abb0e0800000000000000
+      internalID: -2253023669972757174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 193
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6656771b2ef06ffc0800000000000000
+      internalID: -3461561797273229978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 129
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da00bd7706d139cb0800000000000000
+      internalID: -4858507272837726035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 129
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22865f341fd839f20800000000000000
+      internalID: 3428239808725870626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 129
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cfead674a53d7f0800000000000000
+      internalID: -589027863426040830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 129
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6391ab13eef9a40800000000000000
+      internalID: 5377278377446684388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 129
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47312ce86855b4130800000000000000
+      internalID: 3552026767520830324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 129
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bf6dc00a67d39d0800000000000000
+      internalID: -2792945764117578849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 129
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd0d298641426290800000000000000
+      internalID: -7898679025249481260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ad88d1007f2d920800000000000000
+      internalID: 3013742680531851899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 65
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e993ccb5198e450f0800000000000000
+      internalID: -1129021895555139170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 65
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000ee2b86425fb020800000000000000
+      internalID: 2359695192701722624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 65
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4e7a5f1addb9240800000000000000
+      internalID: 4799673515574289589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 65
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afae612c3603329d0800000000000000
+      internalID: -2800341338278139142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 65
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ed1394eea4c6170800000000000000
+      internalID: 8172989811061284368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 65
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439b6b75be240fa00800000000000000
+      internalID: 788203513346177332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d508fbcfb0bf5df0800000000000000
+      internalID: -189238321519000104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1854526f9a4aa30800000000000000
+      internalID: 4225689225032729040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bf31678c3f135f0800000000000000
+      internalID: -778573218258355308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440d3dd2f90c9e080800000000000000
+      internalID: -9157576577380003772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b87032f77fc57140800000000000000
+      internalID: 4716904298811783353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e350cacf58a1d8720800000000000000
+      internalID: 2849963301967496510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_27
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6e1e4a67b8b66b0800000000000000
+      internalID: -5301990794609957177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      male_spellcast_0: -6092958594108893964
+      male_spellcast_1: -6301511356126728911
+      male_spellcast_10: 5377278377446684388
+      male_spellcast_11: 3552026767520830324
+      male_spellcast_12: -2792945764117578849
+      male_spellcast_13: -7898679025249481260
+      male_spellcast_14: 3013742680531851899
+      male_spellcast_15: -1129021895555139170
+      male_spellcast_16: 2359695192701722624
+      male_spellcast_17: 4799673515574289589
+      male_spellcast_18: -2800341338278139142
+      male_spellcast_19: 8172989811061284368
+      male_spellcast_2: -254942336874808031
+      male_spellcast_20: 788203513346177332
+      male_spellcast_21: -189238321519000104
+      male_spellcast_22: 4225689225032729040
+      male_spellcast_23: -778573218258355308
+      male_spellcast_24: -9157576577380003772
+      male_spellcast_25: 4716904298811783353
+      male_spellcast_26: 2849963301967496510
+      male_spellcast_27: -5301990794609957177
+      male_spellcast_3: -1216981128056988783
+      male_spellcast_4: -3361933137006387924
+      male_spellcast_5: -2253023669972757174
+      male_spellcast_6: -3461561797273229978
+      male_spellcast_7: -4858507272837726035
+      male_spellcast_8: 3428239808725870626
+      male_spellcast_9: -589027863426040830
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

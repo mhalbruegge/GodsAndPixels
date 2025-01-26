@@ -1,0 +1,15 @@
+You own the following items: 
+{available_sacrifice_items}
+
+Your current health: {current_healthpoints}
+
+How many of your items do you want to sacrifice, and explain your reasoning in the first person.
+Keep it short and urgent, as if the decision weighs heavily upon you. If you choose the sacrifice the gods are pleased.
+One Sentence maximum. If you want to back down you can also answer with the amount 0 but consider your health. If it's full
+a sacrifice might not be necessary.
+
+Provide you response in this format:
+{
+	"amount": <int>
+	"message": "reason"
+}

@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: be4fb83e12eec384e879ae30b22bbe00
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6657045804327200885
+    second: magic_firelion_sheet_0
+  - first:
+      213: 5545683561365756280
+    second: magic_firelion_sheet_1
+  - first:
+      213: 3276037697279449403
+    second: magic_firelion_sheet_2
+  - first:
+      213: -1116291623315124229
+    second: magic_firelion_sheet_3
+  - first:
+      213: -2387587086430517051
+    second: magic_firelion_sheet_4
+  - first:
+      213: 8283612007637665203
+    second: magic_firelion_sheet_5
+  - first:
+      213: -3446580387584556637
+    second: magic_firelion_sheet_6
+  - first:
+      213: -1628081467535052528
+    second: magic_firelion_sheet_7
+  - first:
+      213: -258098209150412980
+    second: magic_firelion_sheet_8
+  - first:
+      213: 1911859431099684699
+    second: magic_firelion_sheet_9
+  - first:
+      213: 4544160118864978334
+    second: magic_firelion_sheet_10
+  - first:
+      213: 3489298839301231783
+    second: magic_firelion_sheet_11
+  - first:
+      213: 3012178368104513358
+    second: magic_firelion_sheet_12
+  - first:
+      213: -5450455614964692517
+    second: magic_firelion_sheet_13
+  - first:
+      213: -503017445534010807
+    second: magic_firelion_sheet_14
+  - first:
+      213: -7570841639788514006
+    second: magic_firelion_sheet_15
+  - first:
+      213: -7645728394865602296
+    second: magic_firelion_sheet_16
+  - first:
+      213: 2272397836427899917
+    second: magic_firelion_sheet_17
+  - first:
+      213: 4025025033658021826
+    second: magic_firelion_sheet_18
+  - first:
+      213: 114039233138277987
+    second: magic_firelion_sheet_19
+  - first:
+      213: -2393733164492109888
+    second: magic_firelion_sheet_20
+  - first:
+      213: 473931758676806740
+    second: magic_firelion_sheet_21
+  - first:
+      213: 2804282174618659051
+    second: magic_firelion_sheet_22
+  - first:
+      213: 5465376617659121033
+    second: magic_firelion_sheet_23
+  - first:
+      213: -3640531487060142332
+    second: magic_firelion_sheet_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magic_firelion_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 223
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87929b8c1c6d93a0800000000000000
+      internalID: -6657045804327200885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_firelion_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 220
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879dde711d936fc40800000000000000
+      internalID: 5545683561365756280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_firelion_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 215
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b395121bde2d67d20800000000000000
+      internalID: 3276037697279449403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_firelion_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 208
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffce86dea22280f0800000000000000
+      internalID: -1116291623315124229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_firelion_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 138
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8cff2e1369dded0800000000000000
+      internalID: -2387587086430517051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_firelion_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 181
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b547648b3d45f270800000000000000
+      internalID: 8283612007637665203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_firelion_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 131
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1c134f5694b20d0800000000000000
+      internalID: -3446580387584556637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_firelion_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 175
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0113d2ef784e769e0800000000000000
+      internalID: -1628081467535052528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_firelion_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 172
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47dc66db0d0b6cf0800000000000000
+      internalID: -258098209150412980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_firelion_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 131
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b575d2be50a488a10800000000000000
+      internalID: 1911859431099684699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_firelion_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 131
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91a1775d89101f30800000000000000
+      internalID: 4544160118864978334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_firelion_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 67
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a49bb7aeca7c6030800000000000000
+      internalID: 3489298839301231783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_firelion_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 102
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f3cfe34486dc920800000000000000
+      internalID: 3012178368104513358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_firelion_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 67
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd90ff5fe771c54b0800000000000000
+      internalID: -5450455614964692517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_firelion_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 108
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942fe136c4ce409f0800000000000000
+      internalID: -503017445534010807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_firelion_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 67
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a257ba104a7fee690800000000000000
+      internalID: -7570841639788514006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_firelion_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 88
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8011bee988ae4e590800000000000000
+      internalID: -7645728394865602296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_firelion_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 90
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04b6a4eacd298f10800000000000000
+      internalID: 2272397836427899917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_firelion_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 67
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7bd3f41f2cbd730800000000000000
+      internalID: 4025025033658021826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_firelion_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 31
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e3aad0416259100800000000000000
+      internalID: 114039233138277987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_firelion_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 46
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c740639e50c7ced0800000000000000
+      internalID: -2393733164492109888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_firelion_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c05bb6c6eb39600800000000000000
+      internalID: 473931758676806740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_firelion_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 3
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8ea14b7cfcae620800000000000000
+      internalID: 2804282174618659051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_firelion_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 3
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d3c43b31be8db40800000000000000
+      internalID: 5465376617659121033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_firelion_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 4
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407d720a6eb3a7dc0800000000000000
+      internalID: -3640531487060142332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      magic_firelion_sheet_0: -6657045804327200885
+      magic_firelion_sheet_1: 5545683561365756280
+      magic_firelion_sheet_10: 4544160118864978334
+      magic_firelion_sheet_11: 3489298839301231783
+      magic_firelion_sheet_12: 3012178368104513358
+      magic_firelion_sheet_13: -5450455614964692517
+      magic_firelion_sheet_14: -503017445534010807
+      magic_firelion_sheet_15: -7570841639788514006
+      magic_firelion_sheet_16: -7645728394865602296
+      magic_firelion_sheet_17: 2272397836427899917
+      magic_firelion_sheet_18: 4025025033658021826
+      magic_firelion_sheet_19: 114039233138277987
+      magic_firelion_sheet_2: 3276037697279449403
+      magic_firelion_sheet_20: -2393733164492109888
+      magic_firelion_sheet_21: 473931758676806740
+      magic_firelion_sheet_22: 2804282174618659051
+      magic_firelion_sheet_23: 5465376617659121033
+      magic_firelion_sheet_24: -3640531487060142332
+      magic_firelion_sheet_3: -1116291623315124229
+      magic_firelion_sheet_4: -2387587086430517051
+      magic_firelion_sheet_5: 8283612007637665203
+      magic_firelion_sheet_6: -3446580387584556637
+      magic_firelion_sheet_7: -1628081467535052528
+      magic_firelion_sheet_8: -258098209150412980
+      magic_firelion_sheet_9: 1911859431099684699
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

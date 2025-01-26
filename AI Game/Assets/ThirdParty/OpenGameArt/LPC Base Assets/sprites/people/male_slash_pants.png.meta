@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 19669a5f3ecd0054fb99a89e7ad0420f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 470585052403744940
+    second: male_slash_pants_0
+  - first:
+      213: -3846009331688282827
+    second: male_slash_pants_1
+  - first:
+      213: -7097022991427384119
+    second: male_slash_pants_2
+  - first:
+      213: 2990439069436521428
+    second: male_slash_pants_3
+  - first:
+      213: 59948520551901634
+    second: male_slash_pants_4
+  - first:
+      213: -2041326230622832291
+    second: male_slash_pants_5
+  - first:
+      213: -1591572565675438307
+    second: male_slash_pants_6
+  - first:
+      213: -4326706758875848273
+    second: male_slash_pants_7
+  - first:
+      213: 2033630606545138093
+    second: male_slash_pants_8
+  - first:
+      213: -8773407726248409591
+    second: male_slash_pants_9
+  - first:
+      213: 2560586003703389369
+    second: male_slash_pants_10
+  - first:
+      213: -3898451131589466228
+    second: male_slash_pants_11
+  - first:
+      213: -7514356063905122283
+    second: male_slash_pants_12
+  - first:
+      213: -2099911621967337183
+    second: male_slash_pants_13
+  - first:
+      213: -5505974606662707808
+    second: male_slash_pants_14
+  - first:
+      213: 2484204956882829104
+    second: male_slash_pants_15
+  - first:
+      213: -648782800416942246
+    second: male_slash_pants_16
+  - first:
+      213: 8821219507169095643
+    second: male_slash_pants_17
+  - first:
+      213: -4745656063791806810
+    second: male_slash_pants_18
+  - first:
+      213: 7616049668452136149
+    second: male_slash_pants_19
+  - first:
+      213: -6550400705757011468
+    second: male_slash_pants_20
+  - first:
+      213: 8235399725986001253
+    second: male_slash_pants_21
+  - first:
+      213: 1687249086229086439
+    second: male_slash_pants_22
+  - first:
+      213: -3486127026707326263
+    second: male_slash_pants_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: male_slash_pants_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 198
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca04225ac9ad78600800000000000000
+      internalID: 470585052403744940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_slash_pants_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 197
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535e1edc3ea30aac0800000000000000
+      internalID: -3846009331688282827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_slash_pants_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 197
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccc031e03f428d90800000000000000
+      internalID: -7097022991427384119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_slash_pants_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 197
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dba6385d7c208920800000000000000
+      internalID: 2990439069436521428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_slash_pants_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 197
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c96e40acdaf4d000800000000000000
+      internalID: 59948520551901634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_slash_pants_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 197
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59f901db90cba3e0800000000000000
+      internalID: -2041326230622832291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_slash_pants_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 133
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f88ac1f2999e9e0800000000000000
+      internalID: -1591572565675438307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_slash_pants_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 132
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa16ced602374f3c0800000000000000
+      internalID: -4326706758875848273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_slash_pants_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 132
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da13c731348e83c10800000000000000
+      internalID: 2033630606545138093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_slash_pants_9
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 132
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906cb4f08289e3680800000000000000
+      internalID: -8773407726248409591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_slash_pants_10
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 132
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcd39f5767098320800000000000000
+      internalID: 2560586003703389369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_slash_pants_11
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 132
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87e367c95be5e9c0800000000000000
+      internalID: -3898451131589466228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_slash_pants_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 70
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518f12ff8f4a7b790800000000000000
+      internalID: -7514356063905122283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_slash_pants_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 70
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1292ce0718d9bd2e0800000000000000
+      internalID: -2099911621967337183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_slash_pants_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 70
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a55c836449d693b0800000000000000
+      internalID: -5505974606662707808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_slash_pants_15
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 70
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ff3441f3ba97220800000000000000
+      internalID: 2484204956882829104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_slash_pants_16
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 70
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57d3ccfa7f0ff6f0800000000000000
+      internalID: -648782800416942246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_slash_pants_17
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 70
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf6f8aa7644b6a70800000000000000
+      internalID: 8821219507169095643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_slash_pants_18
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 5
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6c28b14fa042eb0800000000000000
+      internalID: -4745656063791806810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_slash_pants_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 4
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d432d762d4a1b960800000000000000
+      internalID: 7616049668452136149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_slash_pants_20
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 4
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1a2ec734d4815a0800000000000000
+      internalID: -6550400705757011468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_slash_pants_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 4
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561beb2fa640a4270800000000000000
+      internalID: 8235399725986001253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_slash_pants_22
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 4
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e08940ca105a6710800000000000000
+      internalID: 1687249086229086439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_slash_pants_23
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 4
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca983380f9ce9fc0800000000000000
+      internalID: -3486127026707326263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      male_slash_pants_0: 470585052403744940
+      male_slash_pants_1: -3846009331688282827
+      male_slash_pants_10: 2560586003703389369
+      male_slash_pants_11: -3898451131589466228
+      male_slash_pants_12: -7514356063905122283
+      male_slash_pants_13: -2099911621967337183
+      male_slash_pants_14: -5505974606662707808
+      male_slash_pants_15: 2484204956882829104
+      male_slash_pants_16: -648782800416942246
+      male_slash_pants_17: 8821219507169095643
+      male_slash_pants_18: -4745656063791806810
+      male_slash_pants_19: 7616049668452136149
+      male_slash_pants_2: -7097022991427384119
+      male_slash_pants_20: -6550400705757011468
+      male_slash_pants_21: 8235399725986001253
+      male_slash_pants_22: 1687249086229086439
+      male_slash_pants_23: -3486127026707326263
+      male_slash_pants_3: 2990439069436521428
+      male_slash_pants_4: 59948520551901634
+      male_slash_pants_5: -2041326230622832291
+      male_slash_pants_6: -1591572565675438307
+      male_slash_pants_7: -4326706758875848273
+      male_slash_pants_8: 2033630606545138093
+      male_slash_pants_9: -8773407726248409591
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

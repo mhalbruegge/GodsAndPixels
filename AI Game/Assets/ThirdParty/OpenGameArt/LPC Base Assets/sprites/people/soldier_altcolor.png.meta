@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 805352425296be64aa24c7883ef1c355
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5150881172017343477
+    second: soldier_altcolor_0
+  - first:
+      213: 3537368539790032820
+    second: soldier_altcolor_1
+  - first:
+      213: -3818382983182633037
+    second: soldier_altcolor_2
+  - first:
+      213: 3833111410153965524
+    second: soldier_altcolor_3
+  - first:
+      213: -3457399365408512054
+    second: soldier_altcolor_4
+  - first:
+      213: 8607049554734669830
+    second: soldier_altcolor_5
+  - first:
+      213: -2823746309687520276
+    second: soldier_altcolor_6
+  - first:
+      213: -2898903558243254261
+    second: soldier_altcolor_7
+  - first:
+      213: 7705164416732666203
+    second: soldier_altcolor_8
+  - first:
+      213: 6541400556087186456
+    second: soldier_altcolor_9
+  - first:
+      213: -6486756335375658769
+    second: soldier_altcolor_10
+  - first:
+      213: 4795584597132886570
+    second: soldier_altcolor_11
+  - first:
+      213: -9034600044769896578
+    second: soldier_altcolor_12
+  - first:
+      213: -5634746573310286877
+    second: soldier_altcolor_13
+  - first:
+      213: 7324086092174280756
+    second: soldier_altcolor_14
+  - first:
+      213: 2398556378929706900
+    second: soldier_altcolor_15
+  - first:
+      213: -7025405967636208649
+    second: soldier_altcolor_16
+  - first:
+      213: 1103091349741256064
+    second: soldier_altcolor_17
+  - first:
+      213: 3501168646503830617
+    second: soldier_altcolor_18
+  - first:
+      213: -522814475166747424
+    second: soldier_altcolor_19
+  - first:
+      213: 610332398133665113
+    second: soldier_altcolor_20
+  - first:
+      213: -6900303456207036033
+    second: soldier_altcolor_21
+  - first:
+      213: -519828137896556115
+    second: soldier_altcolor_22
+  - first:
+      213: -4542563833249100228
+    second: soldier_altcolor_23
+  - first:
+      213: 5374137078706382291
+    second: soldier_altcolor_24
+  - first:
+      213: -6972648351752112393
+    second: soldier_altcolor_25
+  - first:
+      213: -3882744757475663244
+    second: soldier_altcolor_26
+  - first:
+      213: -2034862022396133115
+    second: soldier_altcolor_27
+  - first:
+      213: -3603914554365248792
+    second: soldier_altcolor_28
+  - first:
+      213: -240712646352623680
+    second: soldier_altcolor_29
+  - first:
+      213: -4165255080278211274
+    second: soldier_altcolor_30
+  - first:
+      213: -2158213843132950006
+    second: soldier_altcolor_31
+  - first:
+      213: -1868763182199469933
+    second: soldier_altcolor_32
+  - first:
+      213: 4030590602517268581
+    second: soldier_altcolor_33
+  - first:
+      213: 280798852633154221
+    second: soldier_altcolor_34
+  - first:
+      213: 6713387879422666697
+    second: soldier_altcolor_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: soldier_altcolor_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 194
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0498a55dd46488b0800000000000000
+      internalID: -5150881172017343477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 194
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfb3d5f1f1471130800000000000000
+      internalID: 3537368539790032820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 192
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7b00f48e0620bc0800000000000000
+      internalID: -3818382983182633037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 192
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d749b2d482f13530800000000000000
+      internalID: 3833111410153965524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 193
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac72a226899d400d0800000000000000
+      internalID: -3457399365408512054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 194
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600e42ac7f1627770800000000000000
+      internalID: 8607049554734669830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 192
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3514331b900d8d0800000000000000
+      internalID: -2823746309687520276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 192
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b008bc4a29605c7d0800000000000000
+      internalID: -2898903558243254261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 193
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59945b963e3eea60800000000000000
+      internalID: 7705164416732666203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 129
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8149e1fd529b7ca50800000000000000
+      internalID: 6541400556087186456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 129
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe05b653b796af5a0800000000000000
+      internalID: -6486756335375658769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 130
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22c07278c65d8240800000000000000
+      internalID: 4795584597132886570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 130
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7713cb6027ae9280800000000000000
+      internalID: -9034600044769896578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_13
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 129
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3ad7288db5dc1b0800000000000000
+      internalID: -5634746573310286877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_14
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 129
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4384d640f7164a560800000000000000
+      internalID: 7324086092174280756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_15
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 129
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4973adb8152694120800000000000000
+      internalID: 2398556378929706900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_16
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 129
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f36220ae7eb08e90800000000000000
+      internalID: -7025405967636208649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_17
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 129
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d3228fcb7fe4f00800000000000000
+      internalID: 1103091349741256064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 64
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95498918556a69030800000000000000
+      internalID: 3501168646503830617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 65
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4f04c31079eb8f0800000000000000
+      internalID: -522814475166747424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 65
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d5ba91516587800800000000000000
+      internalID: 610332398133665113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 64
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f712162e0923d30a0800000000000000
+      internalID: -6900303456207036033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da94c60101339c8f0800000000000000
+      internalID: -519828137896556115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 65
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e86add24295f0c0800000000000000
+      internalID: -4542563833249100228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 65
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5ac8e1335c49a40800000000000000
+      internalID: 5374137078706382291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_25
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 65
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f63a1a444d2c3f90800000000000000
+      internalID: -6972648351752112393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_26
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 64
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4722729f638bd1ac0800000000000000
+      internalID: -3882744757475663244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501452495c7b2c3e0800000000000000
+      internalID: -2034862022396133115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_28
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eaf232aec25cfdc0800000000000000
+      internalID: -3603914554365248792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_29
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7253d9f11d8acf0800000000000000
+      internalID: -240712646352623680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_30
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635402da29a0236c0800000000000000
+      internalID: -4165255080278211274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_31
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0adab2c1fb7c02e0800000000000000
+      internalID: -2158213843132950006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_32
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3980ca379c1d016e0800000000000000
+      internalID: -1868763182199469933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_33
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568c11a4cc88fe730800000000000000
+      internalID: 4030590602517268581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_34
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da25988911995e300800000000000000
+      internalID: 280798852633154221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_altcolor_35
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7a66015beba2d50800000000000000
+      internalID: 6713387879422666697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      soldier_altcolor_0: -5150881172017343477
+      soldier_altcolor_1: 3537368539790032820
+      soldier_altcolor_10: -6486756335375658769
+      soldier_altcolor_11: 4795584597132886570
+      soldier_altcolor_12: -9034600044769896578
+      soldier_altcolor_13: -5634746573310286877
+      soldier_altcolor_14: 7324086092174280756
+      soldier_altcolor_15: 2398556378929706900
+      soldier_altcolor_16: -7025405967636208649
+      soldier_altcolor_17: 1103091349741256064
+      soldier_altcolor_18: 3501168646503830617
+      soldier_altcolor_19: -522814475166747424
+      soldier_altcolor_2: -3818382983182633037
+      soldier_altcolor_20: 610332398133665113
+      soldier_altcolor_21: -6900303456207036033
+      soldier_altcolor_22: -519828137896556115
+      soldier_altcolor_23: -4542563833249100228
+      soldier_altcolor_24: 5374137078706382291
+      soldier_altcolor_25: -6972648351752112393
+      soldier_altcolor_26: -3882744757475663244
+      soldier_altcolor_27: -2034862022396133115
+      soldier_altcolor_28: -3603914554365248792
+      soldier_altcolor_29: -240712646352623680
+      soldier_altcolor_3: 3833111410153965524
+      soldier_altcolor_30: -4165255080278211274
+      soldier_altcolor_31: -2158213843132950006
+      soldier_altcolor_32: -1868763182199469933
+      soldier_altcolor_33: 4030590602517268581
+      soldier_altcolor_34: 280798852633154221
+      soldier_altcolor_35: 6713387879422666697
+      soldier_altcolor_4: -3457399365408512054
+      soldier_altcolor_5: 8607049554734669830
+      soldier_altcolor_6: -2823746309687520276
+      soldier_altcolor_7: -2898903558243254261
+      soldier_altcolor_8: 7705164416732666203
+      soldier_altcolor_9: 6541400556087186456
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

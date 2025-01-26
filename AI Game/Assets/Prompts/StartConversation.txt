@@ -1,0 +1,1 @@
+Begin your conversation with {agent_name} by greeting them in the first person. Offer a quick remark about Greek mythology, your everyday life or the last events, keeping your entire response to 1 sentence. Avoid repetition.

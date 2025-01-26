@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 7d026526207db664fbc7d57367824eb6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6165392112801654403
+    second: male_pants_0
+  - first:
+      213: 1315202020429635209
+    second: male_pants_1
+  - first:
+      213: -4791606125920897048
+    second: male_pants_2
+  - first:
+      213: 5043776626631900340
+    second: male_pants_3
+  - first:
+      213: 7051103578051722287
+    second: male_pants_4
+  - first:
+      213: -7841707092006738035
+    second: male_pants_5
+  - first:
+      213: 7510691385760459734
+    second: male_pants_6
+  - first:
+      213: 4765103577263895209
+    second: male_pants_7
+  - first:
+      213: 3906969356328603721
+    second: male_pants_8
+  - first:
+      213: -574426097702457482
+    second: male_pants_9
+  - first:
+      213: 2071355138777317948
+    second: male_pants_10
+  - first:
+      213: -5632512341439021003
+    second: male_pants_11
+  - first:
+      213: -2292921388507281590
+    second: male_pants_12
+  - first:
+      213: 1330466835288209909
+    second: male_pants_13
+  - first:
+      213: -8726717284455543327
+    second: male_pants_14
+  - first:
+      213: -4994230314812941955
+    second: male_pants_15
+  - first:
+      213: 4114402810759100345
+    second: male_pants_16
+  - first:
+      213: 6991676938246923409
+    second: male_pants_17
+  - first:
+      213: -7689243060292131868
+    second: male_pants_18
+  - first:
+      213: -4095932098397142267
+    second: male_pants_19
+  - first:
+      213: 5019020030511708325
+    second: male_pants_20
+  - first:
+      213: -7646685798917780163
+    second: male_pants_21
+  - first:
+      213: 810444796424556993
+    second: male_pants_22
+  - first:
+      213: -8592463144938639622
+    second: male_pants_23
+  - first:
+      213: -898909107653459461
+    second: male_pants_24
+  - first:
+      213: 3936711747893958613
+    second: male_pants_25
+  - first:
+      213: -4903586397061717191
+    second: male_pants_26
+  - first:
+      213: 747038747341412596
+    second: male_pants_27
+  - first:
+      213: -7447341693631137198
+    second: male_pants_28
+  - first:
+      213: 5500093798149074332
+    second: male_pants_29
+  - first:
+      213: 5488334590567389974
+    second: male_pants_30
+  - first:
+      213: 3199872933413647577
+    second: male_pants_31
+  - first:
+      213: -2200765845888626817
+    second: male_pants_32
+  - first:
+      213: 64276635820677932
+    second: male_pants_33
+  - first:
+      213: -7746132087970061721
+    second: male_pants_34
+  - first:
+      213: 7115376326505426378
+    second: male_pants_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: male_pants_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 199
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386a980067fdf8550800000000000000
+      internalID: 6165392112801654403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 199
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e9593f449804210800000000000000
+      internalID: 1315202020429635209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 198
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e736e09d9bc08db0800000000000000
+      internalID: -4791606125920897048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 197
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcffcc6e181ff540800000000000000
+      internalID: 5043776626631900340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 198
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c324c885d8ad160800000000000000
+      internalID: 7051103578051722287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 199
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87e64c62f8ac2390800000000000000
+      internalID: -7841707092006738035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 198
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dba6d1a5065b3860800000000000000
+      internalID: 7510691385760459734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_7
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 197
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2f1c8f47c012240800000000000000
+      internalID: 4765103577263895209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_8
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 198
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9409d48fde7583630800000000000000
+      internalID: 3906969356328603721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 133
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f2bb0f18a3708f0800000000000000
+      internalID: -574426097702457482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 133
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c328082368eeebc10800000000000000
+      internalID: 2071355138777317948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_11
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 134
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53006872edb45d1b0800000000000000
+      internalID: -5632512341439021003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 134
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47c0244528ed20e0800000000000000
+      internalID: -2292921388507281590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_13
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 133
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9bace9984c67210800000000000000
+      internalID: 1330466835288209909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_14
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 133
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed04ccadd874e680800000000000000
+      internalID: -8726717284455543327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_15
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 133
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79561f3dfde0bab0800000000000000
+      internalID: -4994230314812941955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_16
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 133
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b73a2eae8b491930800000000000000
+      internalID: 4114402810759100345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_17
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 133
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194af70c12d670160800000000000000
+      internalID: 6991676938246923409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_18
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 70
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e366af0d225a4590800000000000000
+      internalID: -7689243060292131868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_19
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 70
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5030bea25735827c0800000000000000
+      internalID: -4095932098397142267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_20
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 71
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a87837302427a540800000000000000
+      internalID: 5019020030511708325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_21
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 70
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d4b7e97c381e590800000000000000
+      internalID: -7646685798917780163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_22
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 70
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c113f89f374f3b00800000000000000
+      internalID: 810444796424556993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_23
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 70
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afeeb446b4071c880800000000000000
+      internalID: -8592463144938639622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_24
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 71
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1c3f0edee6683f0800000000000000
+      internalID: -898909107653459461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_25
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 70
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d793542a7202a630800000000000000
+      internalID: 3936711747893958613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_26
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 70
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933e2b5f626f2fbb0800000000000000
+      internalID: -4903586397061717191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_27
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 5
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8dcb068c30e5a00800000000000000
+      internalID: 747038747341412596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_28
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 5
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25af826ff2ab5a890800000000000000
+      internalID: -7447341693631137198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_29
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 6
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d210e2b22445c40800000000000000
+      internalID: 5500093798149074332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_30
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 6
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b124f4b3b7a2c40800000000000000
+      internalID: 5488334590567389974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_31
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 5
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4f182ba7b386c20800000000000000
+      internalID: 3199872933413647577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_32
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 5
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f0ff19f1f4571e0800000000000000
+      internalID: -2200765845888626817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_33
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 5
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bd27d724b54e000800000000000000
+      internalID: 64276635820677932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_34
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 5
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7622a4128e5308490800000000000000
+      internalID: -7746132087970061721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_pants_35
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 5
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd6490f115eeb260800000000000000
+      internalID: 7115376326505426378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      male_pants_0: 6165392112801654403
+      male_pants_1: 1315202020429635209
+      male_pants_10: 2071355138777317948
+      male_pants_11: -5632512341439021003
+      male_pants_12: -2292921388507281590
+      male_pants_13: 1330466835288209909
+      male_pants_14: -8726717284455543327
+      male_pants_15: -4994230314812941955
+      male_pants_16: 4114402810759100345
+      male_pants_17: 6991676938246923409
+      male_pants_18: -7689243060292131868
+      male_pants_19: -4095932098397142267
+      male_pants_2: -4791606125920897048
+      male_pants_20: 5019020030511708325
+      male_pants_21: -7646685798917780163
+      male_pants_22: 810444796424556993
+      male_pants_23: -8592463144938639622
+      male_pants_24: -898909107653459461
+      male_pants_25: 3936711747893958613
+      male_pants_26: -4903586397061717191
+      male_pants_27: 747038747341412596
+      male_pants_28: -7447341693631137198
+      male_pants_29: 5500093798149074332
+      male_pants_3: 5043776626631900340
+      male_pants_30: 5488334590567389974
+      male_pants_31: 3199872933413647577
+      male_pants_32: -2200765845888626817
+      male_pants_33: 64276635820677932
+      male_pants_34: -7746132087970061721
+      male_pants_35: 7115376326505426378
+      male_pants_4: 7051103578051722287
+      male_pants_5: -7841707092006738035
+      male_pants_6: 7510691385760459734
+      male_pants_7: 4765103577263895209
+      male_pants_8: 3906969356328603721
+      male_pants_9: -574426097702457482
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

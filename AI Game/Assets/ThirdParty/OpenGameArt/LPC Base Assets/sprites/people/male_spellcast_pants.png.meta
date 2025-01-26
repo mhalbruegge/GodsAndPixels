@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 0160b389a7f65a64d8b1a859d97b3070
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5931208187715253718
+    second: male_spellcast_pants_0
+  - first:
+      213: 2272618851553553228
+    second: male_spellcast_pants_1
+  - first:
+      213: -6469248410302918928
+    second: male_spellcast_pants_2
+  - first:
+      213: 2040291449620707369
+    second: male_spellcast_pants_3
+  - first:
+      213: 4297503071648311021
+    second: male_spellcast_pants_4
+  - first:
+      213: 5118458155786682297
+    second: male_spellcast_pants_5
+  - first:
+      213: -238620914121522823
+    second: male_spellcast_pants_6
+  - first:
+      213: 1355181699709429505
+    second: male_spellcast_pants_7
+  - first:
+      213: -1788522917638364403
+    second: male_spellcast_pants_8
+  - first:
+      213: -5553809935434658428
+    second: male_spellcast_pants_9
+  - first:
+      213: 1543990046284734599
+    second: male_spellcast_pants_10
+  - first:
+      213: -4493336336505377357
+    second: male_spellcast_pants_11
+  - first:
+      213: 1598809899983597761
+    second: male_spellcast_pants_12
+  - first:
+      213: 2372422872153934092
+    second: male_spellcast_pants_13
+  - first:
+      213: -719016275363142577
+    second: male_spellcast_pants_14
+  - first:
+      213: 887013376822205351
+    second: male_spellcast_pants_15
+  - first:
+      213: 7233418925869978936
+    second: male_spellcast_pants_16
+  - first:
+      213: 1590418924930872084
+    second: male_spellcast_pants_17
+  - first:
+      213: -6742228430797347725
+    second: male_spellcast_pants_18
+  - first:
+      213: -8981383643082620555
+    second: male_spellcast_pants_19
+  - first:
+      213: 4286761371885151612
+    second: male_spellcast_pants_20
+  - first:
+      213: -8757158510872827789
+    second: male_spellcast_pants_21
+  - first:
+      213: -7545389554900933934
+    second: male_spellcast_pants_22
+  - first:
+      213: 7122461037204320795
+    second: male_spellcast_pants_23
+  - first:
+      213: 1544950369330157719
+    second: male_spellcast_pants_24
+  - first:
+      213: 7726546581283426963
+    second: male_spellcast_pants_25
+  - first:
+      213: 5019510622721711879
+    second: male_spellcast_pants_26
+  - first:
+      213: -1196082743607001107
+    second: male_spellcast_pants_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: male_spellcast_pants_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 198
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a0852049d10bda0800000000000000
+      internalID: -5931208187715253718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_pants_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 198
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ba4bcfdc6f98f10800000000000000
+      internalID: 2272618851553553228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_pants_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 198
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe422ca8dc9836a0800000000000000
+      internalID: -6469248410302918928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_pants_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 198
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928b8e47342905c10800000000000000
+      internalID: 2040291449620707369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_pants_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 198
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de66fb6464cc3ab30800000000000000
+      internalID: 4297503071648311021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_pants_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 198
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfbd5de29a680740800000000000000
+      internalID: 5118458155786682297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_pants_6
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 198
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971cec9fa8f30bcf0800000000000000
+      internalID: -238620914121522823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_pants_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 133
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1076a4963929ec210800000000000000
+      internalID: 1355181699709429505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_pants_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 133
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d032585e1e3ed27e0800000000000000
+      internalID: -1788522917638364403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_pants_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 133
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48dc1600a47ece2b0800000000000000
+      internalID: -5553809935434658428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_pants_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 133
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7806a8544ca5d6510800000000000000
+      internalID: 1543990046284734599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_pants_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 133
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bded3e986674a1c0800000000000000
+      internalID: -4493336336505377357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_pants_12
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 133
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c076e7122d103610800000000000000
+      internalID: 1598809899983597761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_pants_13
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 133
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c094fb7580a8ce020800000000000000
+      internalID: 2372422872153934092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_pants_14
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 70
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44614fc18a8506f0800000000000000
+      internalID: -719016275363142577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_pants_15
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 70
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abd18477fd4f4c00800000000000000
+      internalID: 887013376822205351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_pants_16
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 70
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83551145034426460800000000000000
+      internalID: 7233418925869978936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_pants_17
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 70
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4133098f59d421610800000000000000
+      internalID: 1590418924930872084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_pants_18
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 70
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374e8cbc6face62a0800000000000000
+      internalID: -6742228430797347725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_pants_19
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 70
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5718e8a7927bb5380800000000000000
+      internalID: -8981383643082620555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_pants_20
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 70
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75a41861c2ad7b30800000000000000
+      internalID: 4286761371885151612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_pants_21
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 5
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378e2a55bb2587680800000000000000
+      internalID: -8757158510872827789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_pants_22
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 5
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2ef205d24694790800000000000000
+      internalID: -7545389554900933934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_pants_23
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 5
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12bf11b39018d260800000000000000
+      internalID: 7122461037204320795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_pants_24
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 5
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7985887ec24c07510800000000000000
+      internalID: 1544950369330157719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_pants_25
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 5
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39258edbd253a3b60800000000000000
+      internalID: 7726546581283426963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_pants_26
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 5
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f90ad1152e8a540800000000000000
+      internalID: 5019510622721711879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: male_spellcast_pants_27
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 5
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def7451f419a66fe0800000000000000
+      internalID: -1196082743607001107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      male_spellcast_pants_0: -5931208187715253718
+      male_spellcast_pants_1: 2272618851553553228
+      male_spellcast_pants_10: 1543990046284734599
+      male_spellcast_pants_11: -4493336336505377357
+      male_spellcast_pants_12: 1598809899983597761
+      male_spellcast_pants_13: 2372422872153934092
+      male_spellcast_pants_14: -719016275363142577
+      male_spellcast_pants_15: 887013376822205351
+      male_spellcast_pants_16: 7233418925869978936
+      male_spellcast_pants_17: 1590418924930872084
+      male_spellcast_pants_18: -6742228430797347725
+      male_spellcast_pants_19: -8981383643082620555
+      male_spellcast_pants_2: -6469248410302918928
+      male_spellcast_pants_20: 4286761371885151612
+      male_spellcast_pants_21: -8757158510872827789
+      male_spellcast_pants_22: -7545389554900933934
+      male_spellcast_pants_23: 7122461037204320795
+      male_spellcast_pants_24: 1544950369330157719
+      male_spellcast_pants_25: 7726546581283426963
+      male_spellcast_pants_26: 5019510622721711879
+      male_spellcast_pants_27: -1196082743607001107
+      male_spellcast_pants_3: 2040291449620707369
+      male_spellcast_pants_4: 4297503071648311021
+      male_spellcast_pants_5: 5118458155786682297
+      male_spellcast_pants_6: -238620914121522823
+      male_spellcast_pants_7: 1355181699709429505
+      male_spellcast_pants_8: -1788522917638364403
+      male_spellcast_pants_9: -5553809935434658428
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

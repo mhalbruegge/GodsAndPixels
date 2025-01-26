@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: fe944f9248abac1499e44d238ee6890e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3206161693760802721
+    second: turtleshell_side_0
+  - first:
+      213: 5962775114696730322
+    second: turtleshell_side_1
+  - first:
+      213: -3422580785871928045
+    second: turtleshell_side_2
+  - first:
+      213: -7777783097846847560
+    second: turtleshell_side_3
+  - first:
+      213: -8215376996880375865
+    second: turtleshell_side_4
+  - first:
+      213: 572975498718636971
+    second: turtleshell_side_5
+  - first:
+      213: 3256197358947620712
+    second: turtleshell_side_6
+  - first:
+      213: 5928967860562939001
+    second: turtleshell_side_7
+  - first:
+      213: 4244510665110481667
+    second: turtleshell_side_8
+  - first:
+      213: -4774172591938855301
+    second: turtleshell_side_9
+  - first:
+      213: -8352602391618622225
+    second: turtleshell_side_10
+  - first:
+      213: 696225887699408997
+    second: turtleshell_side_11
+  - first:
+      213: 3952493563644926439
+    second: turtleshell_side_12
+  - first:
+      213: -109174252051442640
+    second: turtleshell_side_13
+  - first:
+      213: 3109609982203207073
+    second: turtleshell_side_14
+  - first:
+      213: -3672346869235950863
+    second: turtleshell_side_15
+  - first:
+      213: 4332697231329251947
+    second: turtleshell_side_16
+  - first:
+      213: -349822684300698989
+    second: turtleshell_side_17
+  - first:
+      213: 8753622913972106438
+    second: turtleshell_side_18
+  - first:
+      213: -8915054126658966496
+    second: turtleshell_side_19
+  - first:
+      213: 2964945659978548328
+    second: turtleshell_side_20
+  - first:
+      213: 6853891026790092601
+    second: turtleshell_side_21
+  - first:
+      213: 6687193370964162050
+    second: turtleshell_side_22
+  - first:
+      213: -2262527406826446131
+    second: turtleshell_side_23
+  - first:
+      213: 8808797170584054461
+    second: turtleshell_side_24
+  - first:
+      213: 3779665261836379438
+    second: turtleshell_side_25
+  - first:
+      213: -3445232083155001164
+    second: turtleshell_side_26
+  - first:
+      213: 1277021599845389056
+    second: turtleshell_side_27
+  - first:
+      213: 3738050308341258238
+    second: turtleshell_side_28
+  - first:
+      213: -8104383334518589211
+    second: turtleshell_side_29
+  - first:
+      213: -2429886209516761519
+    second: turtleshell_side_30
+  - first:
+      213: 1024308532797159749
+    second: turtleshell_side_31
+  - first:
+      213: -6321351632154458641
+    second: turtleshell_side_32
+  - first:
+      213: 5102703041167835392
+    second: turtleshell_side_33
+  - first:
+      213: 5828317745030034543
+    second: turtleshell_side_34
+  - first:
+      213: 8412831329691930784
+    second: turtleshell_side_35
+  - first:
+      213: -6516553006603125249
+    second: turtleshell_side_36
+  - first:
+      213: -1395693233636117686
+    second: turtleshell_side_37
+  - first:
+      213: 4546840370672923957
+    second: turtleshell_side_38
+  - first:
+      213: -8511794438138732699
+    second: turtleshell_side_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: turtleshell_side_0
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 455
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f503cee2dec6183d0800000000000000
+      internalID: -3206161693760802721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_1
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 440
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6a90bef5800c250800000000000000
+      internalID: 5962775114696730322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 455
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315c60ba8ec8080d0800000000000000
+      internalID: -3422580785871928045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_3
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 441
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b72dc02b73cf0490800000000000000
+      internalID: -7777783097846847560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_4
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 455
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf9705f52e1dfd80800000000000000
+      internalID: -8215376996880375865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_5
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 440
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab602a2e2e93f700800000000000000
+      internalID: 572975498718636971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_6
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 455
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86753a2fe36503d20800000000000000
+      internalID: 3256197358947620712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_7
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 440
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ccf8d2bdce74250800000000000000
+      internalID: 5928967860562939001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 303
+        width: 29
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b644726f787ea30800000000000000
+      internalID: 4244510665110481667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 338
+        width: 7
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e1411825bbebdb0800000000000000
+      internalID: -4774172591938855301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_10
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 445
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec6e79f068951c80800000000000000
+      internalID: -8352602391618622225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_11
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 444
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56811cf81cd79a900800000000000000
+      internalID: 696225887699408997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_12
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 433
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9d21674f31ad630800000000000000
+      internalID: 3952493563644926439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034dadf98922c7ef0800000000000000
+      internalID: -109174252051442640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_14
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 427
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad1b3badcd872b20800000000000000
+      internalID: 3109609982203207073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_15
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 426
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa5c27baf3390dc0800000000000000
+      internalID: -3672346869235950863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_16
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 346
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62d2b02d25d02c30800000000000000
+      internalID: 4332697231329251947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_17
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 346
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a12ef3f1e252bf0800000000000000
+      internalID: -349822684300698989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_18
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 282
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4f60d59ad1b7970800000000000000
+      internalID: 8753622913972106438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_19
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 351
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cac1b718d574480800000000000000
+      internalID: -8915054126658966496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_20
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 352
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8648b596e5a952920800000000000000
+      internalID: 2964945659978548328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_21
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 297
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f8f0d4399ed1f50800000000000000
+      internalID: 6853891026790092601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_22
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 337
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2067aacc0feadcc50800000000000000
+      internalID: 6687193370964162050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_23
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 292
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc226859f43e990e0800000000000000
+      internalID: -2262527406826446131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_24
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 338
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbae02b0b522f3a70800000000000000
+      internalID: 8808797170584054461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_25
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 326
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2524a5b781147430800000000000000
+      internalID: 3779665261836379438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_26
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 327
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b064ca8ca31030d0800000000000000
+      internalID: -3445232083155001164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_27
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 294
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003194d0164e8b110800000000000000
+      internalID: 1277021599845389056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 297
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7583d43f830e330800000000000000
+      internalID: 3738050308341258238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_29
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 294
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e87c6ecb42778f80800000000000000
+      internalID: -8104383334518589211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_30
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 305
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e0225dd5f474ed0800000000000000
+      internalID: -2429886209516761519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_31
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 286
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549b6cdfe23173e00800000000000000
+      internalID: 1024308532797159749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 154
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe50919be2c0648a0800000000000000
+      internalID: -6321351632154458641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_33
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 154
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0014d13716170d640800000000000000
+      internalID: 5102703041167835392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_34
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 154
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64fe9efb1852e050800000000000000
+      internalID: 5828317745030034543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_35
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 154
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a09091758160c470800000000000000
+      internalID: 8412831329691930784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_36
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 26
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdba61119d8095a0800000000000000
+      internalID: -6516553006603125249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_37
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 26
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43f3b1166081ace0800000000000000
+      internalID: -1395693233636117686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_38
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 26
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5357d581a3f991f30800000000000000
+      internalID: 4546840370672923957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turtleshell_side_39
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 26
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f58915e0800e980800000000000000
+      internalID: -8511794438138732699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      turtleshell_side_0: -3206161693760802721
+      turtleshell_side_1: 5962775114696730322
+      turtleshell_side_10: -8352602391618622225
+      turtleshell_side_11: 696225887699408997
+      turtleshell_side_12: 3952493563644926439
+      turtleshell_side_13: -109174252051442640
+      turtleshell_side_14: 3109609982203207073
+      turtleshell_side_15: -3672346869235950863
+      turtleshell_side_16: 4332697231329251947
+      turtleshell_side_17: -349822684300698989
+      turtleshell_side_18: 8753622913972106438
+      turtleshell_side_19: -8915054126658966496
+      turtleshell_side_2: -3422580785871928045
+      turtleshell_side_20: 2964945659978548328
+      turtleshell_side_21: 6853891026790092601
+      turtleshell_side_22: 6687193370964162050
+      turtleshell_side_23: -2262527406826446131
+      turtleshell_side_24: 8808797170584054461
+      turtleshell_side_25: 3779665261836379438
+      turtleshell_side_26: -3445232083155001164
+      turtleshell_side_27: 1277021599845389056
+      turtleshell_side_28: 3738050308341258238
+      turtleshell_side_29: -8104383334518589211
+      turtleshell_side_3: -7777783097846847560
+      turtleshell_side_30: -2429886209516761519
+      turtleshell_side_31: 1024308532797159749
+      turtleshell_side_32: -6321351632154458641
+      turtleshell_side_33: 5102703041167835392
+      turtleshell_side_34: 5828317745030034543
+      turtleshell_side_35: 8412831329691930784
+      turtleshell_side_36: -6516553006603125249
+      turtleshell_side_37: -1395693233636117686
+      turtleshell_side_38: 4546840370672923957
+      turtleshell_side_39: -8511794438138732699
+      turtleshell_side_4: -8215376996880375865
+      turtleshell_side_5: 572975498718636971
+      turtleshell_side_6: 3256197358947620712
+      turtleshell_side_7: 5928967860562939001
+      turtleshell_side_8: 4244510665110481667
+      turtleshell_side_9: -4774172591938855301
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

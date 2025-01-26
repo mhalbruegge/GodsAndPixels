@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: ebfbb85f6a75871439ca1471230cceea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -51211719640756459
+    second: magic_iceshield_sheet_0
+  - first:
+      213: 8384914089528723899
+    second: magic_iceshield_sheet_1
+  - first:
+      213: 7102534503304325795
+    second: magic_iceshield_sheet_2
+  - first:
+      213: 1258351179898395624
+    second: magic_iceshield_sheet_3
+  - first:
+      213: -8753189477640178412
+    second: magic_iceshield_sheet_4
+  - first:
+      213: -247476578652664289
+    second: magic_iceshield_sheet_5
+  - first:
+      213: 1696896776335974291
+    second: magic_iceshield_sheet_6
+  - first:
+      213: -295197747714366589
+    second: magic_iceshield_sheet_7
+  - first:
+      213: -4408144388148881328
+    second: magic_iceshield_sheet_8
+  - first:
+      213: -213589286551302253
+    second: magic_iceshield_sheet_9
+  - first:
+      213: 5697770172670061691
+    second: magic_iceshield_sheet_10
+  - first:
+      213: -2164908206805628410
+    second: magic_iceshield_sheet_11
+  - first:
+      213: -1326942214969608760
+    second: magic_iceshield_sheet_12
+  - first:
+      213: -5476179066898178016
+    second: magic_iceshield_sheet_13
+  - first:
+      213: -1222702672101177282
+    second: magic_iceshield_sheet_14
+  - first:
+      213: -1964935367368538076
+    second: magic_iceshield_sheet_15
+  - first:
+      213: -1019863970653008919
+    second: magic_iceshield_sheet_16
+  - first:
+      213: -137027039705762970
+    second: magic_iceshield_sheet_17
+  - first:
+      213: 934127897399720098
+    second: magic_iceshield_sheet_18
+  - first:
+      213: -4749978599941932882
+    second: magic_iceshield_sheet_19
+  - first:
+      213: -8385189786106903536
+    second: magic_iceshield_sheet_20
+  - first:
+      213: 4646117124223562549
+    second: magic_iceshield_sheet_21
+  - first:
+      213: -5724851375976538051
+    second: magic_iceshield_sheet_22
+  - first:
+      213: -5129791134744089263
+    second: magic_iceshield_sheet_23
+  - first:
+      213: 1396050315806421490
+    second: magic_iceshield_sheet_24
+  - first:
+      213: 3785650103968955812
+    second: magic_iceshield_sheet_25
+  - first:
+      213: -2801795132782435815
+    second: magic_iceshield_sheet_26
+  - first:
+      213: 5865060100950551645
+    second: magic_iceshield_sheet_27
+  - first:
+      213: -1416928313513848150
+    second: magic_iceshield_sheet_28
+  - first:
+      213: 8850013407957727458
+    second: magic_iceshield_sheet_29
+  - first:
+      213: 7149024191484444458
+    second: magic_iceshield_sheet_30
+  - first:
+      213: -3736749203571619203
+    second: magic_iceshield_sheet_31
+  - first:
+      213: 3181930068640422515
+    second: magic_iceshield_sheet_32
+  - first:
+      213: -4793695846274448132
+    second: magic_iceshield_sheet_33
+  - first:
+      213: -7564095242238622347
+    second: magic_iceshield_sheet_34
+  - first:
+      213: -6116642607453629374
+    second: magic_iceshield_sheet_35
+  - first:
+      213: 1263502217612037647
+    second: magic_iceshield_sheet_36
+  - first:
+      213: 2425587930535498694
+    second: magic_iceshield_sheet_37
+  - first:
+      213: -6455262213923559644
+    second: magic_iceshield_sheet_38
+  - first:
+      213: -8790087158457381759
+    second: magic_iceshield_sheet_39
+  - first:
+      213: 2812035534949562352
+    second: magic_iceshield_sheet_40
+  - first:
+      213: 613782718523050607
+    second: magic_iceshield_sheet_41
+  - first:
+      213: -556719179803262661
+    second: magic_iceshield_sheet_42
+  - first:
+      213: 7759327611580848000
+    second: magic_iceshield_sheet_43
+  - first:
+      213: -8322837413999919391
+    second: magic_iceshield_sheet_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 293
+        width: 38
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fc97a563f0a4ff0800000000000000
+      internalID: -51211719640756459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 447
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9078270f23d5470800000000000000
+      internalID: 8384914089528723899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 434
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aae86aff75419260800000000000000
+      internalID: 7102534503304325795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 457
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb99882bbf867110800000000000000
+      internalID: 1258351179898395624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 443
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415f195eb8c668680800000000000000
+      internalID: -8753189477640178412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 453
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ecd27ec59c09cf0800000000000000
+      internalID: -247476578652664289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 443
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fd206a0a69c8710800000000000000
+      internalID: 1696896776335974291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 452
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3836df4663f37ebf0800000000000000
+      internalID: -295197747714366589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 444
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05811c9c80023d2c0800000000000000
+      internalID: -4408144388148881328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 439
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fc74fecad290df0800000000000000
+      internalID: -213589286551302253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 441
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ca0d1b8cb821f40800000000000000
+      internalID: 5697770172670061691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 451
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ac502c473b4f1e0800000000000000
+      internalID: -2164908206805628410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 440
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5344ff511c59de0800000000000000
+      internalID: -1326942214969608760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 436
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020aa171724b004b0800000000000000
+      internalID: -5476179066898178016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 436
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e380d7bd566180fe0800000000000000
+      internalID: -1222702672101177282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 429
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428856da1b52bb4e0800000000000000
+      internalID: -1964935367368538076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 428
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb02064f17b8d1f0800000000000000
+      internalID: -1019863970653008919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 300
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663f6b522ae291ef0800000000000000
+      internalID: -137027039705762970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 338
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8fa4b9f50b6fc00800000000000000
+      internalID: 934127897399720098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 331
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8f0cb31afa41eb0800000000000000
+      internalID: -4749978599941932882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 289
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0144dd0f052d1ab80800000000000000
+      internalID: -8385189786106903536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 338
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533743688e25a7040800000000000000
+      internalID: 4646117124223562549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 287
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30230f410e3d80b0800000000000000
+      internalID: -5724851375976538051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 330
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d61a944225fc8b0800000000000000
+      internalID: -5129791134744089263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 327
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1b63a9d54cf5310800000000000000
+      internalID: 1396050315806421490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 326
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad7dfa56b4598430800000000000000
+      internalID: 3785650103968955812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 318
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912a519db260e19d0800000000000000
+      internalID: -2801795132782435815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 317
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c697f5611e46150800000000000000
+      internalID: 5865060100950551645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 302
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa250d0c43f065ce0800000000000000
+      internalID: -1416928313513848150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 303
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8b3ce1e4091da70800000000000000
+      internalID: 8850013407957727458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 308
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fba1000af663360800000000000000
+      internalID: 7149024191484444458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 306
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ac362c566642cc0800000000000000
+      internalID: -3736749203571619203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 297
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a5271f98c782c20800000000000000
+      internalID: 3181930068640422515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 299
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4cb81a60f597db0800000000000000
+      internalID: -4793695846274448132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 289
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5750527147fe60790800000000000000
+      internalID: -7564095242238622347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 285
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24415b4b4f15d1ba0800000000000000
+      internalID: -6116642607453629374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 157
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e0fa5929cd88110800000000000000
+      internalID: 1263502217612037647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 174
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c31b0b1f5b69a120800000000000000
+      internalID: 2425587930535498694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 156
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427a517c73d4a66a0800000000000000
+      internalID: -6455262213923559644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 156
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ccc6f1d46530680800000000000000
+      internalID: -8790087158457381759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 156
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7b1749b6b560720800000000000000
+      internalID: 2812035534949562352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 28
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a07da6128948800800000000000000
+      internalID: 613782718523050607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 28
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b310e280bd22648f0800000000000000
+      internalID: -556719179803262661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 28
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08718202a5baeab60800000000000000
+      internalID: 7759327611580848000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic_iceshield_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 28
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee343fd7775f7c80800000000000000
+      internalID: -8322837413999919391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      magic_iceshield_sheet_0: -51211719640756459
+      magic_iceshield_sheet_1: 8384914089528723899
+      magic_iceshield_sheet_10: 5697770172670061691
+      magic_iceshield_sheet_11: -2164908206805628410
+      magic_iceshield_sheet_12: -1326942214969608760
+      magic_iceshield_sheet_13: -5476179066898178016
+      magic_iceshield_sheet_14: -1222702672101177282
+      magic_iceshield_sheet_15: -1964935367368538076
+      magic_iceshield_sheet_16: -1019863970653008919
+      magic_iceshield_sheet_17: -137027039705762970
+      magic_iceshield_sheet_18: 934127897399720098
+      magic_iceshield_sheet_19: -4749978599941932882
+      magic_iceshield_sheet_2: 7102534503304325795
+      magic_iceshield_sheet_20: -8385189786106903536
+      magic_iceshield_sheet_21: 4646117124223562549
+      magic_iceshield_sheet_22: -5724851375976538051
+      magic_iceshield_sheet_23: -5129791134744089263
+      magic_iceshield_sheet_24: 1396050315806421490
+      magic_iceshield_sheet_25: 3785650103968955812
+      magic_iceshield_sheet_26: -2801795132782435815
+      magic_iceshield_sheet_27: 5865060100950551645
+      magic_iceshield_sheet_28: -1416928313513848150
+      magic_iceshield_sheet_29: 8850013407957727458
+      magic_iceshield_sheet_3: 1258351179898395624
+      magic_iceshield_sheet_30: 7149024191484444458
+      magic_iceshield_sheet_31: -3736749203571619203
+      magic_iceshield_sheet_32: 3181930068640422515
+      magic_iceshield_sheet_33: -4793695846274448132
+      magic_iceshield_sheet_34: -7564095242238622347
+      magic_iceshield_sheet_35: -6116642607453629374
+      magic_iceshield_sheet_36: 1263502217612037647
+      magic_iceshield_sheet_37: 2425587930535498694
+      magic_iceshield_sheet_38: -6455262213923559644
+      magic_iceshield_sheet_39: -8790087158457381759
+      magic_iceshield_sheet_4: -8753189477640178412
+      magic_iceshield_sheet_40: 2812035534949562352
+      magic_iceshield_sheet_41: 613782718523050607
+      magic_iceshield_sheet_42: -556719179803262661
+      magic_iceshield_sheet_43: 7759327611580848000
+      magic_iceshield_sheet_44: -8322837413999919391
+      magic_iceshield_sheet_5: -247476578652664289
+      magic_iceshield_sheet_6: 1696896776335974291
+      magic_iceshield_sheet_7: -295197747714366589
+      magic_iceshield_sheet_8: -4408144388148881328
+      magic_iceshield_sheet_9: -213589286551302253
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+You have the following avaliable options:
+{avaliable_options}
+
+These options are not avaliable:
+{not_avaliable_options}
+
+Your health is at: {current_health}
+You own the following items: {current_inventory}
+
+Here is an explanation for each option (ignore the ones which were not avaliable):
+Talk: Talk to a person next to you, this gives you one health point
+Walk: Walk to a person, if you are near a person you have the option to Talk to them
+Sacrifice: This will maybe please the gods, no guarantees. You have to remove one of your items but maybe you won't loose more health.
+Skill: {agent_skill_description}
+
+Answere with one of the avaliable options (single word without any punctuation!)

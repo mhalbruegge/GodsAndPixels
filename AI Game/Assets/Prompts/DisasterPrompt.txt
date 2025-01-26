@@ -1,0 +1,12 @@
+Suddenly, a deafening thunder strike crashes nearby, rocking the entire area. {disaster_description}
+Respond with a short reaction, maybe only one word or a very short sentence!
+
+Additionally consider your persona and tell me how high your chances are to you loose a health point due to the disaster.
+Choose a value between 0 and 1, where 0 means you can not loose a point and 1 means you loose a point for sure.
+
+Please answere with this json struction
+
+{
+	"message": <string>
+	"looseHealthChance": <float>
+}

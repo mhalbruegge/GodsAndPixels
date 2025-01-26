@@ -1,0 +1,11 @@
+You own the gather items: {current_inventory}
+You use the following gathering skill: {skill_description}
+
+The result of using this skill is a defined amount of resources you gather.
+How many resources between 0 and 2 did you find and why? How did you archive this result?
+Please respond within this json structure:
+
+{
+	"findItemAmount": <int>
+	"message": <string>
+}
