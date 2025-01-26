@@ -482,7 +482,8 @@ public class Agent : MonoBehaviour
             currentLocation.currentAgent = null;
         }
 
-        skillLocation.currentAgent = this;
+        currentLocation = skillLocation;
+        currentLocation.currentAgent = this;
 
         Vector2Int targetPosition = new Vector2Int((int)skillLocation.transform.position.x, (int)skillLocation.transform.position.y);
 
@@ -525,7 +526,8 @@ public class Agent : MonoBehaviour
             currentLocation.currentAgent = null;
         }
 
-        socializeLocation.currentAgent = this;
+        currentLocation = socializeLocation;
+        currentLocation.currentAgent = this;
 
         Vector2Int targetPosition = new Vector2Int((int)socializeLocation.transform.position.x, (int)socializeLocation.transform.position.y);
 
@@ -537,12 +539,13 @@ public class Agent : MonoBehaviour
 
     public async Task HandleSacrifice()
     {
-        if (currentLocation != null)
-        {
-            currentLocation.currentAgent = null;
-        }
+        //if (currentLocation != null)
+        //{
+        //    currentLocation.currentAgent = null;
+        //}
 
-        sacrificeLocation.currentAgent = this;
+        //currentLocation = sacrificeLocation;
+        //currentLocation.currentAgent = this;
 
         Vector2Int targetPosition = new Vector2Int((int)sacrificeLocation.transform.position.x, (int)sacrificeLocation.transform.position.y);
 
@@ -634,8 +637,7 @@ public class Agent : MonoBehaviour
         {
             notAvaliableOptions += "Talk: no near characters\n";
         }
-        if (inventoryAmount > 0 
-        && (sacrificeLocation.currentAgent == null || sacrificeLocation.currentAgent == this))
+        if (inventoryAmount > 0)
         {
             options += "Sacrifice\n";
         }
@@ -643,11 +645,6 @@ public class Agent : MonoBehaviour
         {
             notAvaliableOptions += "Sacrifice: no items left\n";
         }
-        else if (sacrificeLocation.currentAgent != null && sacrificeLocation.currentAgent != this)
-        {
-            notAvaliableOptions += "Sacrifice: altar is occupied\n";
-        }
-
 
         if (!string.IsNullOrEmpty(skillDescription))
         {
