@@ -46,7 +46,7 @@ public class ValidateAndSceneSwitchButton : MonoBehaviour
         {
             invalidKey.SetActive(false);
             invalidKey2.SetActive(false);
-            await Task.Delay(1000);
+            await Task.Yield();
 
             if (await ValidateOpenAIToken())
             {
